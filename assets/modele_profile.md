@@ -1,4 +1,4 @@
-# Professional Profile
+# Professionakl Profile
 
 ## Personal Information
 

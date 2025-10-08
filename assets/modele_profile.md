@@ -1,8 +1,8 @@
 # My Profile
 
-## Personal Information
+## Developer Profile
 
-**Name:** XXXX YYYY
+**Name:** Jules Fischer
 
 **Role:** Student Developer
 
@@ -12,6 +12,9 @@ I am intrested in programming and learning new technologies. This is my first Gi
 
 ## Skills I'm Learning
 
+- Languages: Python, JavaScript
+- Tools: Git, GitHub, VS Code
+- Concepts: Version control, Clean code
 - Git & GitHub
 - Version control best practices
 - Professional commit conventions

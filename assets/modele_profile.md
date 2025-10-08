@@ -3,9 +3,6 @@
 
 # Developer Profile
 
-
-## Developer Profile
-
 **Name:** Jules Fischer
 
 **Role:** Student Developer
